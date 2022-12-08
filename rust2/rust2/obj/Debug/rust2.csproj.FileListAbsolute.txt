@@ -1,0 +1,10 @@
+H:\ccc\rust2\rust2\bin\Debug\rust2.exe.config
+H:\ccc\rust2\rust2\bin\Debug\rust2.exe
+H:\ccc\rust2\rust2\bin\Debug\rust2.pdb
+H:\ccc\rust2\rust2\obj\Debug\rust2.csproj.AssemblyReference.cache
+H:\ccc\rust2\rust2\obj\Debug\rust2.Form1.resources
+H:\ccc\rust2\rust2\obj\Debug\rust2.Properties.Resources.resources
+H:\ccc\rust2\rust2\obj\Debug\rust2.csproj.GenerateResource.cache
+H:\ccc\rust2\rust2\obj\Debug\rust2.csproj.CoreCompileInputs.cache
+H:\ccc\rust2\rust2\obj\Debug\rust2.exe
+H:\ccc\rust2\rust2\obj\Debug\rust2.pdb
